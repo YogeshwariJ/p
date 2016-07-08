@@ -11,7 +11,7 @@ while(a)
 if(a>0)
 printf("+");
 else
-printf("-");
+printf("-");//print
 }
 printf("zero");
 }
